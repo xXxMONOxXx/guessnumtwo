@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">guessnumtwo</string>
+    <string name="app_name_label">guessnumtwo</string>
+    <string name="show_msg_label">Guess!</string>
+    <string name="show_hint_label_2">Two-digit number is conceived</string>
+    <string name="btn_guess_label">Take a guess</string>
+    <string name="show_attempts_left_label">ATTEMPTS_LEFT</string>
+    <string name="btn_restart_label">Restart</string>
+    <string name="restart_success">Restarted the game</string>
+    <string name="invalid_input">Enter a valid number</string>
+    <string name="you_win">You won!</string>
+    <string name="guessed">Guessed!</string>
+    <string name="wrong_answer">Wrong answer</string>
+    <string name="you_lose">You lose!</string>
+    <string name="number_lower">Generated number is lower</string>
+    <string name="number_bigger">Generated number is bigger</string>
+    <string name="change_difficulty">Change difficulty</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_4">Level 4</string>
+    <string name="fatal_error_msg">Fatal Error. App closed.</string>
+    <string name="change_level_msg">Level was changed to</string>
+    <string name="show_hint_label_3">Three-digit number is conceived</string>
+    <string name="show_hint_label_4">Four-digit number is conceived</string>
+    <string name="invalid_select">Invalid number size</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="default_username">Superplayer</string>
+    <string name="changed_name">Changed name</string>
+    <string name="about">About</string>
+    <string name="info_stoma">Born in Belarus, student in GRSU (3 course)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
